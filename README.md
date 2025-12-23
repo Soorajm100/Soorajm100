@@ -114,9 +114,8 @@ Real-time emergency management system with intelligent routing
 ## 📈 LeetCode Stats
 
 <div align="center">
-  
-## 🧮 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/unknow2001?theme=dark&font=Baloo&ext=contest)
+<img src="https://leetcard.jacoblin.cool/unknow2001?theme=dark&ext=contest" />
+
 
 </div>
 
