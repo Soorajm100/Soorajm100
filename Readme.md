@@ -98,19 +98,6 @@ Real-time emergency management system with intelligent routing
 - Automated dispatch using nearest-location algorithms
 - **Tech:** Node.js, Next.js, TypeScript, Redis, JWT
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
@@ -138,10 +125,10 @@ Real-time emergency management system with intelligent routing
 
 I'm always interested in collaborating on innovative projects, especially in AI/ML, cloud architecture, and full-stack development. Feel free to reach out!
 
-- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sooraj123/)
 - 📧 **Email:** soorajm825@gmail.com
-- 🌐 **Portfolio:** [View my work](YOUR_PORTFOLIO_URL)
-- 💻 **LeetCode:** [Check my profile](YOUR_LEETCODE_URL)
+- 🌐 **Portfolio:** [View my work](https://portfolio-ten-rouge-16.vercel.app/)
+- 💻 **LeetCode:** [Check my profile](https://leetcode.com/u/unknow2001/)
 
 ---
 
