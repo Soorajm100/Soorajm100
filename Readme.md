@@ -128,7 +128,7 @@ Real-time emergency management system with intelligent routing
 
 <div align="center">
   
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap)
+  ![LeetCode Stats](<img width="877" height="410" alt="image" src="https://github.com/user-attachments/assets/fbc171e6-8689-4906-aa42-c14aa3619d90" />)
 
 </div>
 
