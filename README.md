@@ -1,14 +1,13 @@
-
-# Hey there, I'm Sooraj 👋
+# Hi, I'm Sooraj 👋
 
 <div align="center">
-  
-  **Software Engineer | AI/ML Enthusiast | Cloud Architecture**
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soorajm825@gmail.com)
+
+**Backend Software Engineer | Distributed Systems | Cloud & DevOps**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooraj123/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/unknow2001/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-ten-rouge-16.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soorajm825@gmail.com)
 
 </div>
 
@@ -16,126 +15,124 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer at **Carelon Global Solutions** with a passion for building intelligent, scalable systems. I specialize in full-stack development, cloud architecture, and AI/ML solutions that solve real-world problems.
+I’m a **Backend Software Engineer at Carelon Global Solutions**, focused on designing and building **scalable, reliable, and high-performance backend systems**.
 
-- 🔭 Currently working on **LLM-powered applications** and **cloud infrastructure automation**
-- 🌱 Exploring **advanced RAG pipelines** and **infrastructure as code**
-- 💡 Built production systems serving **500+ daily users**
-- 🎓 B.Tech in Mechanical Engineering with CS Minor from **NIT Karnataka**
-- ⚡ Fun fact: I've solved **500+ coding problems** on LeetCode with a max contest rating of **1676**
+I primarily work on **APIs, databases, cloud infrastructure, authentication, and automation**, with hands-on experience handling **production traffic, performance tuning, and system reliability**.
+
+- 🔧 Backend-first engineer (APIs, infra, databases)
+- ⚙️ Built systems serving **500+ daily users**
+- ☁️ Strong experience with **AWS, Docker, Terraform, CI/CD**
+- 🎓 B.Tech (Mechanical) + **CS Minor** from **NIT Karnataka**
+- 🧠 **500+ LeetCode problems solved** (Max rating: **1676**)
 
 ---
 
-## 💼 Professional Highlights
+## 💼 Core Expertise
 
-### 🤖 AI & Machine Learning
-- Architected **LLM-powered Data Catalogue Chatbot** with RAG pipeline, LangChain agents, and vector databases
-- Developed **ANN model** achieving **99.2% accuracy** on 5,000+ test cases
-- Optimized queries for **sub-second response times** on 1M+ row databases
-- Integrated speech-enabled chatbot for agentic automation
+### 🧱 Backend & Distributed Systems
+- Designed **RESTful APIs** using **FastAPI & Node.js**
+- Built **microservice-oriented architectures** with JWT-based authentication
+- Optimized **MySQL & MongoDB** queries for sub-second latency on **1M+ records**
+- Implemented **Redis caching** and indexing to reduce response time by **60%**
+- Designed APIs handling **high concurrency & streaming responses**
 
 ### ☁️ Cloud & DevOps
-- Engineered **AWS compliance dashboard** with real-time monitoring across EC2, Lambda, and S3
-- Implemented **Terraform IaC** for infrastructure provisioning with automated credential rotation
-- Built **CI/CD pipelines** reducing release cycles by **40%**
-- Automated deployment workflows cutting setup time to **under 3 minutes**
+- Deployed backend services on **AWS (EC2, Lambda, S3, VPC, IAM)**
+- Automated infrastructure using **Terraform (IaC)**
+- Containerized services using **Docker**
+- Built **CI/CD pipelines** with Git-based workflows and blue-green deployments
+- Created internal tools to provision infra & deploy services in **under 3 minutes**
 
-### 🛠️ Full-Stack Development
-- Created emergency response management system with **Redis caching**, reducing response time by **60%**
-- Designed clinical insights dashboards with real-time analytics for **200+ users**
-- Optimized React applications with **35% fewer re-renders** using performance best practices
-- Established SSO authentication mechanisms eliminating friction for enterprise users
+### 🛠️ Performance, Security & Reliability
+- Improved throughput using async endpoints and connection pooling
+- Reduced security vulnerabilities by **70%** via automated compliance checks
+- Implemented fault-tolerant workflows with retries, TTLs, and graceful failures
+- Designed observability using structured logs and monitoring
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **Python**
+- **C++** (Competitive Programming)
+- **TypeScript / JavaScript**
+- **SQL**
+- **Bash**
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Backend & APIs
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+- WebSockets
+
+### Databases & Caching
+- MySQL
+- MongoDB
+- Redis
+- Query Optimization
+- Indexing
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### AI/ML Tools
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- AWS (EC2, Lambda, S3, VPC, IAM, CloudWatch)
+- Docker
+- Terraform
+- CI/CD
+- Git & GitFlow
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🔥 [ML Heat Transfer Prediction](YOUR_GITHUB_LINK)
-AI-powered prediction app with production-ready deployment
-- **99.2% accuracy** on 5,000+ test cases
-- **80% faster** predictions than traditional methods
-- Benchmarked 6 ML models with optimized inference
-- Versioned models serving **500+ monthly runs**
-- **Tech:** Python, Next.js, FastAPI, TensorFlow, Auth0
+### 🔥 ThermalForge — FastAPI Production Backend
+Scalable backend service with emphasis on performance and reliability.
 
-### 🚑 [Emergency Response Management](YOUR_GITHUB_LINK)
-Real-time emergency management system with intelligent routing
-- **60% faster** incident lookup with Redis caching
-- Geolocation-based hospital routing optimizing dispatch by **40%**
-- Real-time ambulance tracking with DB indexing
-- Automated dispatch using nearest-location algorithms
-- **Tech:** Node.js, Next.js, TypeScript, Redis, JWT
+- Designed **FastAPI backend** with async endpoints & model versioning
+- Served **500+ monthly requests** with sub-second latency
+- Unified multiple models behind a **single REST API**
+- Implemented **JWT authentication**
+- Containerized and deployed using **Docker**
+- **Tech:** Python, FastAPI, Docker, AWS, JWT
 
+---
+
+### 🚑 MedicFlow — Emergency Management System
+Backend-heavy, real-time system optimized for speed and concurrency.
+
+- Implemented **Redis caching** with TTL → **60% faster lookups**
+- Designed **geolocation-based routing algorithms**
+- Built real-time tracking with DB indexing
+- Automated dispatch using nearest-location logic
+- **Tech:** Node.js, TypeScript, Redis, MySQL, JWT
 
 ---
 
 ## 🎯 Achievements
 
-- 🏅 **500+ Problems** solved on LeetCode with **1676 max rating**
-- 🥇 **Rank 1445** in Google Kickstart Round H 2022
-- 📜 **Microsoft Azure AI Fundamentals (AI-900)** certified (747/1000)
-- ⭐ **5+ Impact Points Award** for technical excellence
-- 💡 Reduced security vulnerabilities by **70%** through automation
+- 🧠 **500+ problems solved** on LeetCode
+- ⭐ **1676 max contest rating**
+- 🥇 **Rank 1445** — Google Kickstart Round H (2022)
+- 🏅 **5+ Impact Points Award** for engineering excellence
+- ☁️ Microsoft Azure AI-900 Certified
 
 ---
 
-## 📈 LeetCode Stats
+## 📫 Let’s Connect
 
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/unknow2001?theme=dark&ext=contest" />
+I’m interested in **Backend / Platform / Distributed Systems roles**, where scale, performance, and system design matter.
 
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on innovative projects, especially in AI/ML, cloud architecture, and full-stack development. Feel free to reach out!
-
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sooraj123/)
-- 📧 **Email:** soorajm825@gmail.com
-- 🌐 **Portfolio:** [View my work](https://portfolio-ten-rouge-16.vercel.app/)
-- 💻 **LeetCode:** [Check my profile](https://leetcode.com/u/unknow2001/)
+- 💼 LinkedIn: https://www.linkedin.com/in/sooraj123/
+- 📧 Email: soorajm825@gmail.com
+- 💻 LeetCode: https://leetcode.com/u/unknow2001/
+- 🌐 Portfolio: https://portfolio-ten-rouge-16.vercel.app/
 
 ---
 
 <div align="center">
-  
-  ### 💭 "Building the future, one commit at a time"
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-  
+
+**“Design systems first. Optimize later. Scale always.”**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Soorajm100&color=blueviolet&style=for-the-badge)
+
 </div>
